@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,js,react,vue,angular,aws,bitbucket,bootstrap,css,git,github,gitlab,graphql,heroku,html,jquery,mongodb,netlify,nuxtjs,postgres,postman,pug,redis,sass,sequelize,tailwind,ts,vite,vscode,vuetify,webpack,yarn&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,js,react,vue,angular,aws,bitbucket,bootstrap,css,git,github,gitlab,graphql,heroku,html,jquery,mongodb,netlify,nuxtjs,postgres,postman,pug,redis,sass,sequelize,tailwind,ts,vite,vscode,vuetify,webpack,yarn&perline=5)](https://skillicons.dev)
  
 </p>
 
